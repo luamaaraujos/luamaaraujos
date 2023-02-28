@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @luamaaraujos
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL
+- See my professional blog: https://julgandoosdados.substack.com/
 
 <!---
 luamaaraujos/luamaaraujos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
